@@ -1,3 +1,5 @@
+Check it out live: https://vue-expense-tracker-bs.netlify.app/
+
 # vue-expense-tracker
 ![](src/assets/expense-tracker-01.png)
 ![](src/assets/expense-tracker-02.png)
